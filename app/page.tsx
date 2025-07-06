@@ -52,13 +52,7 @@ export default function HomePage() {
                 <Sparkles className="ml-2 w-5 h-5" />
               </Button>
             </Link>
-            <Button
-              size="lg"
-              variant="outline"
-              className="text-lg px-8 py-3 border-purple-200 hover:bg-purple-50 bg-transparent"
-            >
-              Watch Demo
-            </Button>
+            
           </div>
         </div>
       </section>
