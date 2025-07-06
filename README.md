@@ -75,29 +75,6 @@ An AI-powered marketing platform that helps you create personas, generate conten
 | `GEMINI_API_KEY` | Your Google Gemini API key | ✅ Yes |
 | `NODE_ENV` | Environment (development/production) | No |
 
-
-### Docker Deployment
-\`\`\`bash
-# Build and run
-docker-compose up -d
-
-# Check status
-docker-compose ps
-
-# View logs
-docker-compose logs -f
-\`\`\`
-
-### Manual Deployment
-\`\`\`bash
-# Build for production
-npm run build
-
-# Start production server
-npm start
-\`\`\`
-
-
 <div align="center">
   <strong>Built with ❤️ for marketers everywhere</strong>
 </div>
